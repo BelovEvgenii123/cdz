@@ -4,20 +4,18 @@
 Console.Clear();
 Console.WriteLine("Напишите число");
 int a = int.Parse(Console.ReadLine());
-int max1=-1;
-int max2=-2;
+int max1=a;
+int max2=-1;
 while (a!=0)
 {
-   if (a>max1)
-   {
+   a = int.Parse(Console.ReadLine()); 
+   if (a>max2) 
+    max2=a;
+  if (a>max1)
+  {
     max2=max1;
-   max1=a;
-   }
-   else
-   {
-   max2=a;
-   }
-   a = int.Parse(Console.ReadLine());
+    max1=a;
+  }
 }
 Console.WriteLine("End");
 Console.Write(max2);
