@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/z19.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/z19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/z19.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/z19.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/z19.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/bin/Debug/net7.0/z19
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/bin/Debug/net7.0/z19.deps.json
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/bin/Debug/net7.0/z19.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/bin/Debug/net7.0/z19.dll
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/bin/Debug/net7.0/z19.pdb
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/z19.dll
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/refint/z19.dll
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/z19.pdb
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/z19.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/c#/dz/cdz/z19/obj/Debug/net7.0/ref/z19.dll
